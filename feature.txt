@@ -1,1 +1,1 @@
-"I have learnt how to set up tools for web dev and how to configure node.js, git and github" 
+"I have learnt how to set up tools for web development. Also how to configure node.js, git and github" 
